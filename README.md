@@ -1,6 +1,6 @@
 # Hi there, I'm Saif Assas 👋
 
-![Animated Header](https://media.giphy.com/media/6nNca04FQ779JK8xOo/giphy.gif)
+![Animated Header](https://github.com/user-attachments/assets/68060549-9087-44d6-8252-479f5fce5bdd)
 
 ## 💼 About Me
 Cloud Computing Engineering Student at ESPRIT, passionate about DevOps, cloud technologies, software development, and AI integration in innovative systems.
