@@ -3,21 +3,21 @@
 ![Animated Header](https://media.giphy.com/media/6nNca04FQ779JK8xOo/giphy.gif)
 
 ## 💼 About Me
-I am a passionate developer with a knack for building robust applications. My interests include front-end and back-end development, cloud computing, and everything in between.
+Cloud Computing Engineering Student at ESPRIT, passionate about DevOps, cloud technologies, software development, and AI integration in innovative systems.
 
 ## 🚀 Skills
 
 | Technology | Badges |
 |------------|--------|
-| React      | ![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white) |
-| Node.js    | ![Node.js](https://img.shields.io/badge/Node.js-4caf50?style=flat&logo=node.js&logoColor=white) |
+| Angular    | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
+| Spring Boot| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) |
 | Python     | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white) |
 | Docker     | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white) |
 | AWS        | ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232f3e?style=flat&logo=amazonaws&logoColor=white) |
 
 ## Let's Connect 🔗
 - [LinkedIn](https://www.linkedin.com/in/saif-assas-3b27b62b0)  
-- Email: saifassas@example.com
+- Email: saif.assas@esprit.tn
 - GitHub: [saifassas](https://github.com/saifassas)
 
 ## 📊 GitHub Stats
